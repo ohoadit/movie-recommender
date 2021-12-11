@@ -1,5 +1,5 @@
 ## movie-recommender
-A movie recommendation system based on the concept of collaborative filtering mentioned in the research paper.
+A movie recommendation system based on the concept of collaborative filtering.
 
 ## How recommendation engine works?
 
